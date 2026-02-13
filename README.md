@@ -1,10 +1,10 @@
 # Page Replacement Algorithm Simulator
 
-## 📌 Overview
+##  Overview
 
 The Page Replacement Algorithm Simulator is an interactive web-based tool that demonstrates how operating systems manage virtual memory using different page replacement strategies. The simulator visualizes memory frame allocation, page hits, and page faults, helping users understand memory management concepts through real-time simulation.
 
-## 🚀 Features
+##  Features
 
 * Implements FIFO, LRU, and Optimal page replacement algorithms
 * Step-by-step visualization of memory frame allocation
@@ -13,13 +13,13 @@ The Page Replacement Algorithm Simulator is an interactive web-based tool that d
 * Bar chart representation of page fault counts
 * User input for reference string and frame size
 
-## 🧠 Algorithms Implemented
+##  Algorithms Implemented
 
 * First In First Out (FIFO)
 * Least Recently Used (LRU)
 * Optimal Page Replacement
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS
@@ -33,7 +33,7 @@ The Page Replacement Algorithm Simulator is an interactive web-based tool that d
 3. Enter number of frames and reference string
 4. Click **Run Simulation**
 
-## 📊 Output
+##  Output
 
 The simulator displays:
 
@@ -42,10 +42,10 @@ The simulator displays:
 * Total page faults
 * Algorithm comparison chart
 
-## 🎯 Purpose
+##  Purpose
 
 This project was developed to provide a visual and interactive understanding of page replacement algorithms used in virtual memory management in operating systems.
 
-## 👩‍💻 Author
+##  Author
 
-[Your Name]
+Yuktha Kiran V
