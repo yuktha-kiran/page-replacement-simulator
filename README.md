@@ -26,7 +26,7 @@ The Page Replacement Algorithm Simulator is an interactive web-based tool that d
 * JavaScript
 * Chart.js (for data visualization)
 
-## ▶ How to Run the Project
+##  How to Run the Project
 
 1. Download or clone the repository
 2. Open `index.html` in any web browser
